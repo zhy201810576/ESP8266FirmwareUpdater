@@ -15,7 +15,7 @@
 
 ## 网页预览
 
-  <img src="https://github.com/zhy201810576/ESP8266FirmwareUpdater/blob/master/extra/view01.png"/>
-  <img src="https://github.com/zhy201810576/ESP8266FirmwareUpdater/blob/master/extra/view01.png"/>
-  <img src="https://github.com/zhy201810576/ESP8266FirmwareUpdater/blob/master/extra/view01.png"/>
-  <img src="https://github.com/zhy201810576/ESP8266FirmwareUpdater/blob/master/extra/view01.png"/>
+  ![view01.png](https://github.com/zhy201810576/ESP8266FirmwareUpdater/raw/ffe229f2eafbacfd4994e005fb2b603a5140cc62/extra/view01.png)
+  ![view02.png](https://github.com/zhy201810576/ESP8266FirmwareUpdater/raw/ffe229f2eafbacfd4994e005fb2b603a5140cc62/extra/view02.png)
+  ![view03.png](https://github.com/zhy201810576/ESP8266FirmwareUpdater/raw/ffe229f2eafbacfd4994e005fb2b603a5140cc62/extra/view03.png)
+  ![view04.png](https://github.com/zhy201810576/ESP8266FirmwareUpdater/raw/ffe229f2eafbacfd4994e005fb2b603a5140cc62/extra/view04.png)
