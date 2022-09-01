@@ -14,8 +14,8 @@
 要使用 ESP8266FirmwareUpdater 库为您的项目添加 OTA 功能，请参考项目*Examples*文件夹下的*WebUpdater*示例及*SecureWebUpdater*示例
 
 ## 网页预览
-
-  ![view01.png](https://github.com/zhy201810576/ESP8266FirmwareUpdater/raw/ffe229f2eafbacfd4994e005fb2b603a5140cc62/extra/view01.png)
-  ![view02.png](https://github.com/zhy201810576/ESP8266FirmwareUpdater/raw/ffe229f2eafbacfd4994e005fb2b603a5140cc62/extra/view02.png)
-  ![view03.png](https://github.com/zhy201810576/ESP8266FirmwareUpdater/raw/ffe229f2eafbacfd4994e005fb2b603a5140cc62/extra/view03.png)
-  ![view04.png](https://github.com/zhy201810576/ESP8266FirmwareUpdater/raw/ffe229f2eafbacfd4994e005fb2b603a5140cc62/extra/view04.png)
+  
+  ![view01.png](https://raw.githubusercontent.com/zhy201810576/ESP8266FirmwareUpdater/main/extra/view01.png)
+  ![view02.png](https://raw.githubusercontent.com/zhy201810576/ESP8266FirmwareUpdater/main/extra/view02.png)
+  ![view03.png](https://raw.githubusercontent.com/zhy201810576/ESP8266FirmwareUpdater/main/extra/view03.png)
+  ![view04.png](https://raw.githubusercontent.com/zhy201810576/ESP8266FirmwareUpdater/main/extra/view04.png)
